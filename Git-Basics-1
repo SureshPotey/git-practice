@@ -1,0 +1,9 @@
+git add file-name
+git commit -m "messege"
+git pull
+git fetch
+git push origin <branc-name>
+git log
+git show
+
+git log --one-line
